@@ -1,8 +1,8 @@
 ---
 date: '2020'
 title: 'OCR'
-github: 'https://github.com/bchiang7/google-keep-vue-firebase'
-external: 'https://keep-vue.netlify.com/'
+github: 'https://github.com/Nivedita-del/ocr'
+external: 'https://github.com/Nivedita-del/ocr'
 tech:
   - ocr space
   - regex
