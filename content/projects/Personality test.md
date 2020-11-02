@@ -1,15 +1,15 @@
 ---
 date: '2020'
-title: 'Myers-Briggs Type Indicator Test'
-github: 'https://github.com/Nivedita-del/Minhance_MBIT_personality'
-external: 'https://minhancepersonalitytest.netlify.app/'
+title: 'Asteroid detection and gravitational waves'
+github: 'https://github.com/Nivedita-del/NSAC-The_Unknown'
+external: 'https://nivedita-del.github.io/NSAC-The_Unknown/'
 tech:
   - PHP
   - SQL
   - JS
   - SCSS
-company: 'Minhance'
+company: 'NasaSpaceApps'
 showInProjects: true
 ---
 
-Describe how people belonging to a specific personality type are likely to behave. The user have to answer a set of questions and it'll give the personality type of the user.
+A prediction model of gravitational waves and visualisation based on its characteristics to find wormholes, along with live asteroid tracking with a prediction model for impacting the earth.
