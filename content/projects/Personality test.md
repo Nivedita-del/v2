@@ -4,10 +4,15 @@ title: 'Asteroid detection and gravitational waves'
 github: 'https://github.com/Nivedita-del/NSAC-The_Unknown'
 external: 'https://nivedita-del.github.io/NSAC-The_Unknown/'
 tech:
-  - PHP
-  - SQL
-  - JS
-  - SCSS
+  - jupyter-notebook
+  - python
+  - google colabs
+  - keras
+  - tkinter
+  - scikit-learn
+  - matplotlib
+  - rest api
+  - photometer
 company: 'NasaSpaceApps'
 showInProjects: true
 ---
