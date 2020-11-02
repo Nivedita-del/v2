@@ -2,7 +2,7 @@
 date: '2020'
 title: 'V2X communication'
 github: 'https://github.com/Nivedita-del/v2x'
-external: 'https://github.com/Nivedita-del/v2x'
+external: 'https://nivedita-del.github.io/v2x/'
 tech:
   - C programming
   - Python
