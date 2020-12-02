@@ -3,7 +3,7 @@ date: '2018-05-14'
 title: 'Research Intern'
 company: 'SmartBot'
 location: 'Bangalore, India'
-range: '01-08-202 to Present'
+range: '01-08-2020 to 01-10-2020'
 url: 'https://www.smartbots.ai/'
 ---
 
