@@ -2,7 +2,7 @@
 date: '2017-12-01'
 title: 'The mask'
 github: 'https://github.com/Nivedita-del/The_Mask'
-external: 'https://tools.applemusic.com/en-us'
+external: 'https://github.com/Nivedita-del/The_Mask'
 tech:
   - tensorflow
   - keras
